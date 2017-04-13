@@ -33,3 +33,7 @@ bomb's explosion, including their own, requiring players to be cautious of their
 - [ ]Potion:Increase explosion range; speed up bombers; protection for few seconds...
 - [ ]PVP Mode and PVE Mode.
 
+
+## TimeLine
+- [ ]finish the basic settings in one or one and half month
+- [ ]work on the improvement for the rest of time.
